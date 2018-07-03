@@ -1,0 +1,1 @@
+Bu sadece .txt nin servlet uzerinden islediyini tesdiqleyen bir file-dir.
